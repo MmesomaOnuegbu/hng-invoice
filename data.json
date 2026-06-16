@@ -1,0 +1,397 @@
+[
+  {
+    "id": "KJLGTS",
+    "createdAt": "2026-04-23",
+    "paymentDue": "2026-05-23",
+    "description": "",
+    "paymentTerms": 30,
+    "clientName": "",
+    "clientEmail": "",
+    "status": "pending",
+    "senderAddress": {
+      "street": "",
+      "city": "",
+      "postCode": "",
+      "country": ""
+    },
+    "clientAddress": {
+      "street": "",
+      "city": "",
+      "postCode": "",
+      "country": ""
+    },
+    "items": [],
+    "total": 0
+  },
+  {
+    "id": "2UIACX",
+    "createdAt": "2026-04-23",
+    "paymentDue": "2026-05-23",
+    "description": "",
+    "paymentTerms": 30,
+    "clientName": "",
+    "clientEmail": "",
+    "status": "draft",
+    "senderAddress": {
+      "street": "",
+      "city": "",
+      "postCode": "",
+      "country": ""
+    },
+    "clientAddress": {
+      "street": "",
+      "city": "",
+      "postCode": "",
+      "country": ""
+    },
+    "items": [],
+    "total": 0
+  },
+  {
+    "id": "XM9141",
+    "createdAt": "2021-08-21",
+    "paymentDue": "2021-09-20",
+    "description": "Graphic Design",
+    "paymentTerms": 30,
+    "clientName": "Alex Grim",
+    "clientEmail": "alexgrim@mail.com",
+    "status": "pending",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "84 Church Way",
+      "city": "Bradford",
+      "postCode": "BD1 9PB",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Banner Design",
+        "quantity": 1,
+        "price": 156,
+        "total": 156
+      },
+      {
+        "name": "Email Design",
+        "quantity": 2,
+        "price": 200,
+        "total": 400
+      }
+    ],
+    "total": 556
+  },
+  {
+    "id": "RG0314",
+    "createdAt": "2021-09-24",
+    "paymentDue": "2021-10-01",
+    "description": "Website Redesign",
+    "paymentTerms": 7,
+    "clientName": "John Morrison",
+    "clientEmail": "jm@mail.com",
+    "status": "paid",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "79 Dover Road",
+      "city": "Canterbury",
+      "postCode": "CT1 2SE",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "App Design",
+        "quantity": 1,
+        "price": 14002.33,
+        "total": 14002.33
+      }
+    ],
+    "total": 14002.33
+  },
+  {
+    "id": "RT2080",
+    "createdAt": "2021-10-11",
+    "paymentDue": "2021-10-12",
+    "description": "SEO Optimization",
+    "paymentTerms": 1,
+    "clientName": "Alysa Werner",
+    "clientEmail": "alysa@mail.com",
+    "status": "pending",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "63 Warwick Road",
+      "city": "Carlisle",
+      "postCode": "CA1 2SB",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "SEO Audit",
+        "quantity": 1,
+        "price": 102.04,
+        "total": 102.04
+      }
+    ],
+    "total": 102.04
+  },
+  {
+    "id": "AA1449",
+    "createdAt": "2021-10-07",
+    "paymentDue": "2021-10-14",
+    "description": "Email Marketing",
+    "paymentTerms": 7,
+    "clientName": "Mellisa Clarke",
+    "clientEmail": "mellisa.c@mail.com",
+    "status": "pending",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "46 Abbey Row",
+      "city": "Cambridge",
+      "postCode": "CB5 8AB",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Newsletter Template",
+        "quantity": 1,
+        "price": 4032.33,
+        "total": 4032.33
+      }
+    ],
+    "total": 4032.33
+  },
+  {
+    "id": "TY9141",
+    "createdAt": "2021-10-01",
+    "paymentDue": "2021-10-31",
+    "description": "Consultancy",
+    "paymentTerms": 30,
+    "clientName": "Thomas Wayne",
+    "clientEmail": "thomas@waynecorp.com",
+    "status": "pending",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "Wayne Manor",
+      "city": "Gotham",
+      "postCode": "GT1 1DC",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Strategy Meeting",
+        "quantity": 1,
+        "price": 6155.91,
+        "total": 6155.91
+      }
+    ],
+    "total": 6155.91
+  },
+  {
+    "id": "FV2353",
+    "createdAt": "2021-11-05",
+    "paymentDue": "2021-11-12",
+    "description": "Logo Concept",
+    "paymentTerms": 7,
+    "clientName": "Anita Wainwright",
+    "clientEmail": "anita.w@mail.com",
+    "status": "draft",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "15 Station Road",
+      "city": "Durham",
+      "postCode": "DH1 1TW",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Draft Sketches",
+        "quantity": 1,
+        "price": 3102.04,
+        "total": 3102.04
+      }
+    ],
+    "total": 3102.04
+  },
+  {
+    "id": "QU1234",
+    "createdAt": "2021-11-10",
+    "paymentDue": "2021-11-20",
+    "description": "App Development",
+    "paymentTerms": 10,
+    "clientName": "Sarah Jenkins",
+    "clientEmail": "sarah.j@techcorp.com",
+    "status": "paid",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "22 Silicon Valley",
+      "city": "Reading",
+      "postCode": "RG1 1NY",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Mobile App",
+        "quantity": 1,
+        "price": 9500,
+        "total": 9500
+      }
+    ],
+    "total": 9500
+  },
+  {
+    "id": "JK5566",
+    "createdAt": "2021-11-15",
+    "paymentDue": "2021-11-16",
+    "description": "Copywriting",
+    "paymentTerms": 1,
+    "clientName": "Markus Price",
+    "clientEmail": "markus@price.com",
+    "status": "draft",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "12 Media Lane",
+      "city": "Manchester",
+      "postCode": "M1 4BT",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Blog Post",
+        "quantity": 2,
+        "price": 250,
+        "total": 500
+      }
+    ],
+    "total": 500
+  },
+  {
+    "id": "ZE9001",
+    "createdAt": "2021-11-20",
+    "paymentDue": "2021-12-20",
+    "description": "Motion Graphics",
+    "paymentTerms": 30,
+    "clientName": "Selina Kyle",
+    "clientEmail": "cat@kyle.me",
+    "status": "pending",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "Unit 5, East Docks",
+      "city": "Gotham",
+      "postCode": "GT3 4HH",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Intro Video",
+        "quantity": 1,
+        "price": 2450.5,
+        "total": 2450.5
+      }
+    ],
+    "total": 2450.5
+  },
+  {
+    "id": "WP0042",
+    "createdAt": "2021-12-01",
+    "paymentDue": "2021-12-08",
+    "description": "Banner Ads",
+    "paymentTerms": 7,
+    "clientName": "Arthur Dent",
+    "clientEmail": "arthur@hitchhiker.com",
+    "status": "paid",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "42 Galactic Way",
+      "city": "Bristol",
+      "postCode": "BS8 1QU",
+      "country": "United Kingdom"
+    },
+    "items": [
+      {
+        "name": "Display Ads",
+        "quantity": 5,
+        "price": 120,
+        "total": 600
+      }
+    ],
+    "total": 600
+  },
+  {
+    "id": "PL0009",
+    "createdAt": "2021-12-05",
+    "paymentDue": "2021-12-06",
+    "description": "UI Design Refresh",
+    "paymentTerms": 1,
+    "clientName": "Elena Fisher",
+    "clientEmail": "elena@uncharted.com",
+    "status": "draft",
+    "senderAddress": {
+      "street": "19 Union Terrace",
+      "city": "London",
+      "postCode": "E1 3EZ",
+      "country": "United Kingdom"
+    },
+    "clientAddress": {
+      "street": "Apartment 4B",
+      "city": "New York",
+      "postCode": "10001",
+      "country": "USA"
+    },
+    "items": [
+      {
+        "name": "Landing Page",
+        "quantity": 1,
+        "price": 1200,
+        "total": 1200
+      }
+    ],
+    "total": 1200
+  }
+]

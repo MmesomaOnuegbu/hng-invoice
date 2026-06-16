@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-spartan), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --background: #F8F8FB;
+  --foreground: #171717;
+}
+
+html {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+html.dark {
+  background-color: #141625; 
+  color: white; 
+}
+
+.label {
+  @apply block text-xs font-medium text-[#7E88C3] dark:text-[#DFE3FA] mb-2;
+}
+
+.input {
+  @apply w-full px-4 py-3 rounded-md border border-[#DFE3FA]
+  dark:border-[#252945] bg-white dark:bg-[#1E2139]
+  text-[#0C0E16] dark:text-white text-sm font-semibold
+  focus:outline-none focus:border-[#7C5DFA]
+  transition-all;
+}
+
+.input:hover {
+  @apply border-[#7C5DFA];
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
